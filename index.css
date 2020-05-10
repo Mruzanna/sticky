@@ -1,0 +1,12 @@
+
+div.sticky{
+     position: sticky;
+     top: 0;
+    width :1000px;
+    height:100;
+    font-size:10px;
+    
+    background-color: aqua;
+    border:1px solid black 
+    ;
+}
